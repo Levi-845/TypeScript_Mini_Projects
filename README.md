@@ -1,6 +1,5 @@
-# TypeScript_Mini_Projects
+# TypeScript_Digital_Clock
 
-## Terminal commands ##
 1.  **Install dependencies:**
     Using npm:
 
